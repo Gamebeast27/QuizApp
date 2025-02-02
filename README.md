@@ -21,3 +21,36 @@ This project is a web-based quiz application built using **React**, **Vite**, **
    ```bash
    git clone https://github.com/your-username/quiz-app.git
    ``` 
+
+2. **Navigate to the Project Folder**
+
+   ```bash
+   cd QuizApp
+   ``` 
+
+3. **Install Dependencies**
+
+   ```bash
+   npm install
+   ``` 
+
+4. **Run the Development Server**
+
+   ```bash
+   npm run dev
+   ``` 
+
+
+## Screenshots
+
+### Welcome Page
+![Welcome Page](./public/Screenshot_one.png)
+
+### Instructions Page
+![Instructions Page](./public/Screenshot_two.png)
+
+### Quiz Page
+![Quiz Page](./public/Screenshot_four.png)
+
+### Results Page
+![Results Page](./public/Screenshot_five.png)
